@@ -5,5 +5,7 @@ public class ForLoops{
 		for(i=0; i<2;i++){
 			System.out.println("Hello World");
 		}
+		System.out.println("Done with for loops");
+		System.out.println("Wait what about while loop");
 	}
 }
